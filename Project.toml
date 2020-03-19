@@ -1,0 +1,7 @@
+name = "Equipements"
+uuid = "fdfb9996-1b98-41f1-ac47-1978de211a3a"
+authors = ["vuille_f <florian.vuillemot@posteo.net>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
